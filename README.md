@@ -1,2 +1,3 @@
-# esiil-hackathon-week2
+# ESIIL hackathon week2
+
 A practice repo 
